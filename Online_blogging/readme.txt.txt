@@ -1,0 +1,1 @@
+First create a DSN called blog connected to the database within WEB-INF folder, then run
